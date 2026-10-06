@@ -10,5 +10,9 @@
   {
     "package": "lwpls",
     "url": "https://github.com/ChristianGoueguel/lwpls"
+  },
+  {
+    "package": "specProc",
+    "url": "https://github.com/ChristianGoueguel/specProc"
   }
 ]
